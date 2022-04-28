@@ -6,7 +6,7 @@ public class Matsi implements IMatsi {
      * Ajattelin siirtää pelin logiikan sille omaan luokkaan, niin sovellus on helppolukuisempi
      * <p>
      * Vertailu metodi palauttaa integerin 0, 1 tai 2, 1 ja 2 ovat pelaajien voittoja ja 0 tarkoittaa tasuria
-     *
+     * @author Arttuper
      * @param a
      * @param b
      */

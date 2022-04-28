@@ -1,9 +1,9 @@
 package kivipaperisakset;
 /**
  *
- * @author Ira Dook
+ * @author Arttuper
  */
-public class Peli {
+public class main {
 
     public static void main(String args[]) throws InterruptedException {
 

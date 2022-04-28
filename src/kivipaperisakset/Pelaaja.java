@@ -5,7 +5,7 @@ import java.util.Random;
 
 /**
  *
- * @author Ira Dook
+ * @author Arttuper
  */
 public class Pelaaja implements IPelaaja{
 
