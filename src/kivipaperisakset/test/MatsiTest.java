@@ -1,5 +1,7 @@
-package kivipaperisakset;
+package kivipaperisakset.test;
 
+import kivipaperisakset.Matsi;
+import kivipaperisakset.Pelaaja;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
