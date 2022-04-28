@@ -56,12 +56,12 @@ public class Pelaaja implements IPelaaja{
         return (voitot);
     }
 
-    public String getValinta() {
-        return valinta;
-    }
-
     public void setValinta(String valinta) {
         this.valinta = valinta;
+    }
+
+    public String getValinta() {
+        return valinta;
     }
 
     /**
